@@ -1,0 +1,2 @@
+model_checkpoint_path: "e2000_model_c0.0353_cv0.0255.ckpt"
+all_model_checkpoint_paths: "e2000_model_c0.0353_cv0.0255.ckpt"
